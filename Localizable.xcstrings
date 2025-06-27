@@ -51,12 +51,6 @@
             "value" : ""
           }
         },
-        "en-CA" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "new",
@@ -219,12 +213,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -232,6 +220,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : ""
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -290,12 +284,6 @@
             "value" : ""
           }
         },
-        "en-CA" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
         "en-GB" : {
           "stringUnit" : {
             "state" : "new",
@@ -458,12 +446,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -471,6 +453,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : ""
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -524,12 +512,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -697,12 +679,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "等到下載完成後，按一下螢幕，我就可以描述眼前的世界給您聽。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -710,6 +686,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "等到下載完成後，按一下螢幕，我就可以描述眼前的世界給您聽。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "等到下載完成後，按一下螢幕，我就可以描述眼前的世界給您聽。"
@@ -762,12 +744,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -935,12 +911,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "同意"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -948,6 +918,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "同意"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "同意"
@@ -1000,12 +976,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -1173,12 +1143,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "首先，我們需要在無線網路環境下載檔案，大小為 1.5G。這對於確保手機資料在離線狀態下運作至關重要。點擊“同意”即可繼續，否則請退出此應用程式。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1186,6 +1150,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "首先，我們需要在無線網路環境下載檔案，大小為 1.5G。這對於確保手機資料在離線狀態下運作至關重要。點擊“同意”即可繼續，否則請退出此應用程式。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "首先，我們需要在無線網路環境下載檔案，大小為 1.5G。這對於確保手機資料在離線狀態下運作至關重要。點擊“同意”即可繼續，否則請退出此應用程式。"
@@ -1238,12 +1208,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -1411,12 +1375,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "回到正常模式，使用後置鏡頭"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1424,6 +1382,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回到正常模式，使用後置鏡頭"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "回到正常模式，使用後置鏡頭"
@@ -1476,12 +1440,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -1649,12 +1607,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "不需點擊螢幕"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1662,6 +1614,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不需點擊螢幕"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "不需點擊螢幕"
@@ -1714,12 +1672,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -1887,12 +1839,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "手機面朝下, 準備離開, 再見。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1900,6 +1846,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手機面朝下, 準備離開, 再見。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "手機面朝下, 準備離開, 再見。"
@@ -1953,12 +1905,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -2126,12 +2072,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "載入中..."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2139,6 +2079,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "載入中..."
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "載入中..."
@@ -2191,12 +2137,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -2364,12 +2304,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "此應用程式需要使用相機拍攝照片，以便描述使用者眼前的景象。處理均在您的設備上離線完成。請在螢幕上確認。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2377,6 +2311,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此應用程式需要使用相機拍攝照片，以便描述使用者眼前的景象。處理均在您的設備上離線完成。請在螢幕上確認。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "此應用程式需要使用相機拍攝照片，以便描述使用者眼前的景象。處理均在您的設備上離線完成。請在螢幕上確認。"
@@ -2429,12 +2369,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -2602,12 +2536,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "好的，那我們繼續再使用"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2615,6 +2543,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好的，那我們繼續再使用"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "好的，那我們繼續再使用"
@@ -2667,12 +2601,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -2840,12 +2768,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "離開"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2853,6 +2775,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "離開"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "離開"
@@ -2905,12 +2833,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -3078,12 +3000,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "如果等太久可退出重啓"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3091,6 +3007,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果等太久可退出重啓"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "如果等太久可退出重啓"
@@ -3143,12 +3065,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -3316,12 +3232,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "此應用程式需要 A14 仿生晶片以上才能處理，即 iPhone 12 Pro、iPhone 13 或更新版本。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3329,6 +3239,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此應用程式需要 A14 仿生晶片以上才能處理，即 iPhone 12 Pro、iPhone 13 或更新版本。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "此應用程式需要 A14 仿生晶片以上才能處理，即 iPhone 12 Pro、iPhone 13 或更新版本。"
@@ -3381,12 +3297,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -3554,12 +3464,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "此應用程式需要相機存取權限才能正常運作。它會拍攝照片來描述使用者眼前的事物。所有處理均在您的設備上離線完成。您可以在「設定」>「隱私權與安全性」>「相機」中更新此權限。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3567,6 +3471,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此應用程式需要相機存取權限才能正常運作。它會拍攝照片來描述使用者眼前的事物。所有處理均在您的設備上離線完成。您可以在「設定」>「隱私權與安全性」>「相機」中更新此權限。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "此應用程式需要相機存取權限才能正常運作。它會拍攝照片來描述使用者眼前的事物。所有處理均在您的設備上離線完成。您可以在「設定」>「隱私權與安全性」>「相機」中更新此權限。"
@@ -3620,12 +3530,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -3793,12 +3697,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "觸摸螢幕說出看到的內容。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3806,6 +3704,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "觸摸螢幕說出看到的內容。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "觸摸螢幕說出看到的內容。"
@@ -3858,12 +3762,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -4031,12 +3929,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "手機上下顛倒，接下來使用前置鏡頭，進入連續拍攝模式"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4044,6 +3936,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手機上下顛倒，接下來使用前置鏡頭，進入連續拍攝模式"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "手機上下顛倒，接下來使用前置鏡頭，進入連續拍攝模式"
@@ -4096,12 +3994,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -4269,12 +4161,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "等太久了，Bye Bye，下次見。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4282,6 +4168,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "等太久了，Bye Bye，下次見。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "等太久了，Bye Bye，下次見。"
@@ -4334,12 +4226,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -4507,12 +4393,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "我們需要下載大型檔案以供離線使用。只需下載一次，但耗時較長。請在快速穩定的無線網路環境操作。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4520,6 +4400,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們需要下載大型檔案以供離線使用。只需下載一次，但耗時較長。請在快速穩定的無線網路環境操作。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "我們需要下載大型檔案以供離線使用。只需下載一次，但耗時較長。請在快速穩定的無線網路環境操作。"
@@ -4572,12 +4458,6 @@
           }
         },
         "en-AU" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          }
-        },
-        "en-CA" : {
           "stringUnit" : {
             "state" : "new",
             "value" : ""
@@ -4745,12 +4625,6 @@
             "value" : ""
           }
         },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "我們使用人工智慧離線辨識 ，所有資料包括相機拍攝內容，均在手機內運算，徹底保護您的隱私。"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4758,6 +4632,12 @@
           }
         },
         "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們使用人工智慧離線辨識 ，所有資料包括相機拍攝內容，均在手機內運算，徹底保護您的隱私。"
+          }
+        },
+        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "我們使用人工智慧離線辨識 ，所有資料包括相機拍攝內容，均在手機內運算，徹底保護您的隱私。"
